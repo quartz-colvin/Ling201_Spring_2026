@@ -36,11 +36,136 @@ output:
 
 # Tricky morphemes
 
-***???continue slide 3 of Week 3 lecture slides***
+Consider the word *break-able*. Which description best fits this word?
+
+- A compound word with two roots: *break + able*
+
+- A simple word with the root break and the suffix -able
+
+We know able is a separate word. But do the word *able* and *-able* mean the same thing? Let's put them in sentences so we can use our intuitions.
+
+- *Freda studies karate. She is able to break the board.*
+
+- *The board is breakable.*
+
+The meanings are related, but subtly different.
+
+- If the meanings are different, they're different morphemes.
+
+- So we consider them different morphemes: free root (word) *able*, bound suffix *-able*
+
+---
+
+# Tricky morphemes
+
+We have a similar situation with morphemes like *-less* or *-ful*
+
+What does the morpheme in bold mean in each sentence?
+
+- *The bucket is* **full** *of water.*
+
+- *A bucket*-**ful** *of water will put out the campfire.*
+
+- *Yuri cared* **less** *than Josephine.*
+
+-  *Yuri was care*-**less** *and made a mistake.*
+
+--
+
+Again, the meanings are related, but subtly different, so we consider them different morphemes:
+
+- *able, full,* and *less* are free roots, *-able, -ful,* and *-less* are bound derivational suffixes
+
+- If you're stuck on a morpheme, try using it in a sentence – it may clear things up
+
+---
+
+# Affixation
+
+Let's move on to morphological processes. The first two should be familiar.
+
+- Affixation: Adding an affix: a prefix, suffix, infix, or circumfix.
+
+  - Depending on the type of affix, also called prefixation, suffixation, infixation, circumfixation.
+
+  - **Prefixation:** *re- + visit → revisit
+
+  - **Suffixation:** *modern + -ize → modernize
+
+  - **Infixation:** Tagalog *bili* 'buy' → *b-um-ili* 'to buy'
+
+  - **Circumfixation:** Indonesian *ajar* 'teach' → *pel-ajar-an* 'subject'
+
+---
+
+# Compounding 
+
+Combining two or more roots into a single word
+
+- *tree + house → treehouse*
+
+- *blue + bird → bluebird*
+
+- *health + care → healthcare*
+
+--
+
+Compound words often sound different from the words used
+separately – one of the roots will be pronounced with less stress
+than if it had been a separate word:
+
+- Abraham Lincoln was born in a log cabin – a **tree** house.
+
+- The child played in a **treehouse**.
+
+---
+
+# Compounding
+
+Different languages have different rules for compounding.
+
+Germanic languages are well-known for permitting lots of compounding:
+
+--
+
+- German: *Donaudampfschiffahrtsgesellschaftskapitän*
+
+- Roots: *Donau- dampf- schiff- fahrts- gesellschafts- kapitän*
+
+- Meaning: Danube- steam- ship- travel- company- captain
+
+  'captain of the Danube Steamship Company'
+
+---
+
+# Compounding
+
+English is also a Germanic language and allows this kind of compounding.
+
+We just write these compounds with spaces:
+
+- Amazon product title: *Instant Pot Duo 7-in-1 Electric Pressure Cooker*
+
+--
+
+It can be confusing what's a string of words and what's a compound with spaces, but:
+
+- Remember that in a compound, typically not all roots are equally stressed.
+
+  - *My cousin sells* **réal estate**. *Graceland is a* **réal estáte**!
+
+- The meaning of compounds is sometimes non-compositional: not derived from the words.
+
+- If it's a long string of nouns, it's probably a compound.
+
+- In the end, spaces are a spelling convention – we don't actually pronounce them.
+
+---
+
+# Reduplication 
 
 
-
-
+***begin slide 10???***
 
 
 
