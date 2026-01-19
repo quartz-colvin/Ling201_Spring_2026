@@ -25,32 +25,32 @@ This is an R Markdown document serving as the directory. You could find links to
 
 <br><br>
 
-#### **Week 01**: Introduction (DATE, DATE)
+#### **Week 01**: Introduction (Jan 20, 23)
 - **Tuesday:** [slides](https://quartz-colvin.github.io/Ling201_Spring_2026/intro1) <br>
+- **Friday:** [slides] <br>
+<br>
+
+#### **Week 02**: Morphology I (Jan 27, 30)
+- **Tuesday:** [slides] <br>
+- **Friday:** [slides] <br>
+<br>
+
+
+#### **Week 03**: Morphology II (Feb 3, 6)
+- **Tuesday:** [slides] <br>
 - **Friday:** [continue] <br>
 <br>
 
-#### **Week 02**: Morphology I (DATE, DATE)
-- **Tuesday:** [slides](https://quartz-colvin.github.io/Ling201_Spring_2026/morphology1meet1) <br>
-- **Friday:** [continue] <br>
+
+#### **Week 04**: Syntax I (Feb 10, 13)
+- **Tuesday:** [slides] <br>
+- **Friday:** [slides] <br>
 <br>
 
 
-#### **Week 03**: Morphology II (DATE, DATE)
-- **Tuesday:** [slides](https://quartz-colvin.github.io/Ling201_Spring_2026/morphology2meet1) <br>
-- **Friday:** [continue] <br>
-<br>
-
-
-#### **Week 04**: Syntax I (DATE, DATE)
-- **Tuesday:** [*in progress.*](https://quartz-colvin.github.io/Ling201_Spring_2026/syntax1meet1) <br>
-- **Friday:** [TBD.] <br>
-<br>
-
-
-#### **Week 05**: Syntax II (DATE, DATE)
-- **Tuesday:** [TBD.] <br>
-- **Friday:** [TBD.] <br>
+#### **Week 05**: Syntax II (17, 20)
+- **Tuesday:** [slides.] <br>
+- **Friday:** [slides] <br>
 <br>
 
 
@@ -61,55 +61,55 @@ This is an R Markdown document serving as the directory. You could find links to
 <br>
 
 
-#### **Week 07**: Semantics I (DATE, DATE)
-- **Tuesday:** [TBD](https://quartz-colvin.github.io/Ling201_Spring_2026/semantics1meet1) <br>
-- **Friday:** [TBD.] <br>
+#### **Week 07**: Semantics I (March 3, 6)
+- **Tuesday:** [slides] <br>
+- **Friday:** [slides] <br>
 <br>
 
 
-#### **Week 08**: Semantics II (DATE, DATE)
-- **Tuesday:** [TBD.] <br>
-- **Friday:** [TBD.] <br>
+#### **Week 08**: Semantics II (March 10, 13)
+- **Tuesday:** [slides] <br>
+- **Friday:** [slides] <br>
 <br>
 
 
-#### **Week 09**: Pragmatics (DATE, DATE)
-- **Tuesday:** [TBD](https://quartz-colvin.github.io/Ling201_Spring_2026/pragmatics1meet1) <br>
-- **Friday:** [TBD.] <br>
+#### **Week 09**: Pragmatics (March 24, 27)
+- **Tuesday:** [slides] <br>
+- **Friday:** [slides] <br>
 <br>
 
 
-#### **Week 10**: Phonetics I (DATE, DATE)
-- **Tuesday:** [TBD](https://quartz-colvin.github.io/Ling201_Spring_2026/phonetics1meet1) <br>
-- **Friday:** [TBD.] <br>
+#### **Week 10**: Phonetics I (March 31, April 3)
+- **Tuesday:** [slides] <br>
+- **Friday:** [slides] <br>
 <br>
 
 
-#### **Week 11**: Phonetics II (DATE, DATE)
-- **Tuesday:** [TBD.] <br>
-- **Friday:** [TBD.] <br>
+#### **Week 11**: Phonetics II (April 7, 10)
+- **Tuesday:** [slides] <br>
+- **Friday:** [slides] <br>
 <br>
 
 
-#### **Week 12**: Phonology I (DATE, DATE)
-- **Tuesday:** [TBD](https://quartz-colvin.github.io/Ling201_Spring_2026/phonology1meet1) <br>
-- **Friday:** [TBD.] <br>
+#### **Week 12**: Phonology I (April 14, 17)
+- **Tuesday:** [slides] <br>
+- **Friday:** [slides] <br>
 <br>
 
 
-#### **Week 13**: ??? (DATE, DATE)
-- **Tuesday:** [TBD.] <br>
-- **Friday:** [TBD.] <br>
+
+#### **Week 13**: Phonology II (April 21, 24)
+- **Tuesday:** [slides] <br>
+- **Friday:** [slides] <br>
+<br>
+
+#### **Week 14**: Phonology III \& Review (April 28, May 1)
+- **Tuesday:** [slides] <br>
+- **Friday:** [slides] <br>
 <br>
 
 
-#### **Week 14**: Phonology II (DATE, DATE)
-- **Tuesday:** [TBD.] <br>
-- **Friday:** [TBD.] <br>
-<br>
-
-
-#### **Week 16**: Final Exam (TBD.)
+#### **Week 15**: Final Exam (TBD.)
 - <span style="color:red"><b>Date</b></span>: <u>[TBD.]</u> <br>
 - <span style="color:red"><b>Time</b></span>: <u>[TBD.]</u> <br>
 - <span style="color:red"><b>Venue</b></span>: <u>[TBD.]</u> <br>
