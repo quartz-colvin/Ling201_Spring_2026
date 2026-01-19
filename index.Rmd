@@ -38,7 +38,7 @@ This is an R Markdown document serving as the directory. You could find links to
 
 #### **Week 03**: Morphology II (Feb 3, 6)
 - **Tuesday:** [slides] <br>
-- **Friday:** [continue] <br>
+- **Friday:** [slides] <br>
 <br>
 
 
@@ -49,7 +49,7 @@ This is an R Markdown document serving as the directory. You could find links to
 
 
 #### **Week 05**: Syntax II (17, 20)
-- **Tuesday:** [slides.] <br>
+- **Tuesday:** [slides] <br>
 - **Friday:** [slides] <br>
 <br>
 
