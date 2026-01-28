@@ -18,6 +18,59 @@ output:
 
 ---
 
+class: center, middle
+
+# Review (terms)
+
+---
+
+# Review 
+
+.pull-left[
+
+- morpheme
+
+- root
+
+- affix
+
+- suffix
+
+- prefix
+
+- free morpheme
+
+- bound morpheme
+
+- derivational morpheme
+]
+
+.pull-right[
+
+- inflectional morpheme
+
+- homophone
+
+- allomorph
+
+- monomorphemic
+
+- polymorphemic 
+
+- simple word
+
+- compound word
+
+- complex word
+]
+
+
+
+
+
+
+---
+
 class: middle, center
 
 # Morphological analysis
@@ -96,4 +149,25 @@ knitr::include_graphics("./images/luiseno_dataset.jpg")
 
 
 
+---
+
+# Coming up 
+
+### Reading 
+
+- **Sections 4.3, 4.4 and 4.5** from *Language Files* for Feb 3
+
+### Homework
+
+- I will post HW1 by Feb 1
+
+- **HW1 will be due Feb 8**
+
+### Reminders
+
+- my office hour is in person and on Zoom, Mondays 2-3pm!
+
+  - in-person in Room 3 in the Linguistics Department basement
+
+  - the Zoom link is on Canvas
 

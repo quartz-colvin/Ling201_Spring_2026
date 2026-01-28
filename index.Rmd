@@ -50,7 +50,7 @@ This is an R Markdown document serving as the directory for links to the slides 
 
 #### **Week 02**: Morphology I (Jan 27, 30)
 - **Tuesday:** [slides](https://quartz-colvin.github.io/Ling201_Spring2026/morphology1meet1) <br>
-- **Friday:** [slides] <br>
+- **Friday:** [slides](https://quartz-colvin.github.io/Ling201_Spring2026/morphology1meet2) <br>
 <br>
 
 
@@ -127,7 +127,8 @@ This is an R Markdown document serving as the directory for links to the slides 
 <br>
 
 
-#### **Week 15**: Final Exam (TBD.)
-- <span style="color:red"><b>Date</b></span>: <u>[TBD.]</u> <br>
-- <span style="color:red"><b>Time</b></span>: <u>[TBD.]</u> <br>
-- <span style="color:red"><b>Venue</b></span>: <u>[TBD.]</u> <br>
+#### **Week 15**: Final Exam (May 8)
+- <span style="color:red"><b>Date</b></span>: <u>May 8, 2026</u> <br>
+- <span style="color:red"><b>Time</b></span>: <u>8:00 AM - 11:00 AM</u> <br>
+- <span style="color:red"><b>Venue</b></span>: <u>Scott Hall, Room 116</u> <br>
+
