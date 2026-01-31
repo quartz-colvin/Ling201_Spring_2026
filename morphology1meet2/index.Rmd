@@ -138,6 +138,36 @@ knitr::include_graphics("./images/zapotec_dataset.png")
   
 - The word for four is *tapa*. How would you say "his four" and "your four"?
 
+---
+
+# Dataset 1: **Answers**
+
+.pull-left[
+- stick: **palu**
+
+- dough: **kuba**
+
+- tortilla: **geta**
+
+- chicken: **bere**
+
+- rope: **dolo**
+]
+
+.pull-right[
+
+- 3rd person singular (she/he/it): **-be**
+
+- 2nd person singular: **-lu**
+
+- possession: **s-**
+
+- *his four:* **s-tapa-be**
+
+- *your four:* **s-tapa-lu**
+
+]
+
 
 ---
 
@@ -146,6 +176,39 @@ knitr::include_graphics("./images/zapotec_dataset.png")
 ```{r, out.width="100%", out.height="100%", echo=FALSE}
 knitr::include_graphics("./images/luiseno_dataset.jpg")
 ```
+
+
+---
+
+# Dataset 2: **Answers**
+
+- son: **kaamaj**
+
+- house: **ki** 
+
+- blanket: **taana**
+
+- wife: **peew**
+
+- my: **no-**
+
+- his: **po-**
+
+- your (sg.): **7o-**
+
+- your (pl.): **7om-**
+
+- their: **pom-**
+
+- plural marker: **-m**
+
+- pipe: **huukapi** 
+
+- our: **tfam-**
+
+
+
+
 
 
 
