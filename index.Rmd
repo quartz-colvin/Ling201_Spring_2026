@@ -57,6 +57,7 @@ This is an R Markdown document serving as the directory for links to the slides 
 #### **Week 03**: Morphology II (Feb 3, 6)
 - **Tuesday:** [slides] <br>
 - **Friday:** [slides] <br>
+  - <u> **Due Feb 8:**</u> [HW1](Ling 201 - HW1 - Spring 2026.docx) <br>
 <br>
 
 
