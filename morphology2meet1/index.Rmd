@@ -699,6 +699,48 @@ As we saw in the non-English datasets last week, it's also possible for words to
 
 ---
 
+class: middle, center
+
+# Practice!
+
+### Identifying word-formation processes 
+
+---
+
+# Identifying word-formation processes
+
+- Identify the morphological processes involved in the following words. 
+
+- Some will exhibit one process, some will exhibit multiple. 
+
+*(Note: Say the words out loud to hear differences in sound.)*
+
+***word pairs are on the next slide!***
+
+---
+
+# Identifying word-formation processes
+
+1. feed → fed
+
+2. leaf →  leaves
+
+3. peace →  peaceful
+
+4. foot, ball → football 
+
+5. good →  best
+
+6. chair, woman →  chairwomen
+
+7. back, pack →  backpacks
+
+8. like →  like-liked
+
+9. go →  underwent
+
+---
+
 class: center, middle
 
 # Etymology
@@ -749,7 +791,7 @@ We've also seen the rise of new word-formation processes in the past century:
 
 # Coming up 
 
-**one more morphology class!**
+***Only one more morphology class! Then we move on to Syntax!***
 
 ### Reading 
 
